@@ -1,13 +1,1 @@
-对clone下来的仓库进行更改
-
-例如，添加一个新的文件
-
-touch Readme_new
-1
-1
-对刚刚的更改进行提交
-
-该步不可省略！(其实是提交到git缓存空间)
-
-git add Readme_new
-git commit -m 'add new readme file'
+test for change
